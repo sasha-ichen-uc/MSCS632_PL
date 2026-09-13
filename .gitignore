@@ -1,0 +1,10 @@
+# Compiled binaries / build output
+*.exe
+*.class
+*.o
+*.obj
+*.pdb
+
+# Rust
+/target/
+Cargo.lock
